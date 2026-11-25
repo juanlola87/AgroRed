@@ -1,0 +1,8 @@
+{
+  "name": "Agro Mundo Animal",
+  "description": "Tu tienda integral para mascotas y el sector agropecuario. Alimentación, medicina, accesorios y servicios especializados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
